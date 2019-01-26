@@ -6,6 +6,8 @@ alias h="history"
 hname=win10
 export PS1="\u@${hname}:\w$ "
 
+abc
+
 
 
 
