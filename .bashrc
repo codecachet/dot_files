@@ -8,6 +8,7 @@ export PS1="\u@${hname}:\w$ "
 
 abc
 def
+123
 
 
 
